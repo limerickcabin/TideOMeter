@@ -4,7 +4,7 @@
  * I used to use rapidapi but now use worldtides.info. A 7-day query 
  * costs 1 credit. I bought 20,000 credits for $10. We get 3-days at a time so it should
  * last >100 years. Example fetch:
- * http://www.worldtides.info/api/v3?extremes&start=1670720000&lat=20.75&lon=-105.5&days=7&key=f8a5eeb5-0f0a-47b1-8627-1ba606ac92fc
+ * http://www.worldtides.info/api/v3?extremes&start=1670720000&lat=20.75&lon=-105.5&days=7&key=YOUR_WORLDTIDES_KEY
  *
  */
 
